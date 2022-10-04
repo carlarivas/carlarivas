@@ -1,4 +1,4 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Carla Rivas] (https://github.com/carlarivas)
+* [Carla Rivas] (https://github.com/carlarivas)
