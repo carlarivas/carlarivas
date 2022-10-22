@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 👋 Hi, I’m @carlarivas
-<br><br><br>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarivas&theme=blue-green" loading="lazy" width="300" height="205" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarivas&theme=blue-green" loading="lazy" width="300" height="205" /> 
 
 Programming languages:
 
